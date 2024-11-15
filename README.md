@@ -12,7 +12,9 @@ The Garage Management System is a valuable tool for automotive repair facilities
   -  Koushika Purna Velamati (EBF0F1A978570B282184BFF889BD2223)
   -  Shruthi R A (3E6C591A76F4F4B88844A3E322F44439)
 
-
+## Demo Link
+You can view the project demo using the following link:
+[Demo](https://drive.google.com/file/d/1eJDq29wMWPz8gtdpevpuxcis5gDegcl_/view?usp=drive_link)
 
 
 
