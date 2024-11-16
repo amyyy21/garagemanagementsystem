@@ -8,6 +8,7 @@ The Garage Management System is a valuable tool for automotive repair facilities
 ## Team Members
 - Team Lead: Abirami S (D56DE6BC50088979B7F49E21B88C33A1)
 - Team Members:
+  -  Abirami S (D56DE6BC50088979B7F49E21B88C33A1)
   -  Amirthaa B (2CD510412827F3B8A164BC37D2A586AF)
   -  Koushika Purna Velamati (EBF0F1A978570B282184BFF889BD2223)
   -  Shruthi R A (3E6C591A76F4F4B88844A3E322F44439)
